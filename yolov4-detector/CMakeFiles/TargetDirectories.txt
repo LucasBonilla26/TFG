@@ -1,0 +1,15 @@
+/home/robocomp/robocomp/components/dsr-graph/components/yolov4-detector/CMakeFiles/install/strip.dir
+/home/robocomp/robocomp/components/dsr-graph/components/yolov4-detector/CMakeFiles/install/local.dir
+/home/robocomp/robocomp/components/dsr-graph/components/yolov4-detector/CMakeFiles/edit_cache.dir
+/home/robocomp/robocomp/components/dsr-graph/components/yolov4-detector/CMakeFiles/rebuild_cache.dir
+/home/robocomp/robocomp/components/dsr-graph/components/yolov4-detector/CMakeFiles/list_install_components.dir
+/home/robocomp/robocomp/components/dsr-graph/components/yolov4-detector/CMakeFiles/install.dir
+/home/robocomp/robocomp/components/dsr-graph/components/yolov4-detector/src/CMakeFiles/install/strip.dir
+/home/robocomp/robocomp/components/dsr-graph/components/yolov4-detector/src/CMakeFiles/install/local.dir
+/home/robocomp/robocomp/components/dsr-graph/components/yolov4-detector/src/CMakeFiles/install.dir
+/home/robocomp/robocomp/components/dsr-graph/components/yolov4-detector/src/CMakeFiles/list_install_components.dir
+/home/robocomp/robocomp/components/dsr-graph/components/yolov4-detector/src/CMakeFiles/ICES__home_robocomp_robocomp_components_dsr-graph_components_yolov4-detector_src.dir
+/home/robocomp/robocomp/components/dsr-graph/components/yolov4-detector/src/CMakeFiles/rebuild_cache.dir
+/home/robocomp/robocomp/components/dsr-graph/components/yolov4-detector/src/CMakeFiles/yolov4_detector.dir
+/home/robocomp/robocomp/components/dsr-graph/components/yolov4-detector/src/CMakeFiles/edit_cache.dir
+/home/robocomp/robocomp/components/dsr-graph/components/yolov4-detector/src/CMakeFiles/yolov4_detector_autogen.dir
